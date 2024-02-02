@@ -6,9 +6,9 @@
 
 1. Clone the repository to your local machine:
 
-    ```bash
-    git clone <repository_url>
-    ```
+   ```bash
+   git clone <repository_url>
+   ```
 
 ### Add Collaborators to this Repo
 
@@ -23,99 +23,107 @@
 
 1. **Create Feature Branch:**
 
-    ```bash
-    git checkout -b feature-terminal-menu
-    ```
+   ```bash
+   git checkout -b feature-terminal-menu
+   ```
 
 2. **Implement Menu Interface:**
-    - Personalize the phone with images and colors.
-    - Design a menu interface using basic Python functions.
-  
+
+   - Personalize the phone with images and colors.
+   - Design a menu interface using basic Python functions.
+
 3. **Commit Changes:**
 
-    ```bash
-    git add .
-    git commit -m "Implement Terminal Phone Menu Interface"
-    ```
+   ```bash
+   git add .
+   git commit -m "Implement Terminal Phone Menu Interface"
+   ```
 
 4. **Push Feature Branch:**
 
-    ```bash
-    git push origin feature-terminal-menu
-    ```
+   ```bash
+   git push origin feature-terminal-menu
+   ```
 
 ### Team 2 - Manage Contacts
 
 1. **Create Feature Branch:**
 
-    ```bash
-    git checkout -b feature-manage-contacts
-    ```
+   ```bash
+   git checkout -b feature-manage-contacts
+   ```
 
 2. **Implement Contact Management:**
-    - Create, update, delete, and read contacts.
-  
+
+   - Create, update, delete, and read contacts.
+
 3. **Commit Changes:**
 
-    ```bash
-    git add .
-    git commit -m "Implement Contact Management"
-    ```
+   ```bash
+   git add .
+   git commit -m "Implement Contact Management"
+   ```
 
 4. **Push Feature Branch:**
 
-    ```bash
-    git push origin feature-manage-contacts
-    ```
+   ```bash
+   git push origin feature-manage-contacts
+   ```
 
 ### Team 3 - Search on the Internet
 
-1. **Create Feature Branch:**
+## Team 3 added (2) files:
 
-    ```bash
-    git checkout -b feature-internet-search
-    ```
+1. Py File
+2. Js File
+3. **Create Feature Branch:**
 
-2. **Implement Internet Search:**
-    - Open a browser for the user.
-    - Implement search functionality and history.
-  
-3. **Commit Changes:**
+   ```bash
+   git checkout -b feature-internet-search
+   ```
 
-    ```bash
-    git add .
-    git commit -m "Implement Internet Search"
-    ```
+4. **Implement Internet Search:**
 
-4. **Push Feature Branch:**
+   - Open a browser for the user.
+   - Implement search functionality and history.
 
-    ```bash
-    git push origin feature-internet-search
-    ```
+5. **Commit Changes:**
+
+   ```bash
+   git add .
+   git commit -m "Implement Internet Search"
+   ```
+
+6. **Push Feature Branch:**
+
+   ```bash
+   git push origin feature-internet-search
+   ```
 
 ### Team 4 - Manage Tasks and Subtasks
 
 1. **Create Feature Branch:**
 
-    ```bash
-    git checkout -b feature-manage-tasks
-    ```
+   ```bash
+   git checkout -b feature-manage-tasks
+   ```
 
 2. **Implement Task Management:**
-    - Create, update, delete, and read tasks and subtasks.
-  
+
+   - Create, update, delete, and read tasks and subtasks.
+
 3. **Commit Changes:**
 
-    ```bash
-    git add .
-    git commit -m "Implement Task Management"
-    ```
+   ```bash
+   git add .
+   git commit -m "Implement Task Management"
+   ```
 
 4. **Push Feature Branch:**
 
-    ```bash
-    git push origin feature-manage-tasks
-    ```
+   ```bash
+   git push origin feature-manage-tasks
+   ```
 
 ## Finalization
 
