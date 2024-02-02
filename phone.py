@@ -1,3 +1,7 @@
+
+def conflict():
+    pass
+
 def manage_tasks():
     pass
 
