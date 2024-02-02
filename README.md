@@ -74,8 +74,9 @@
 
 ### Team 3 - Search on the Internet
 
-1. **Create Feature Branch:**
+## Team 3 added (2) files:
 
+ feature-internet-search
    ```bash
    git checkout -b feature-internet-search
    ```
@@ -92,8 +93,32 @@
    git commit -m "Implement Internet Search"
    ```
 
-4. **Push Feature Branch:**
+1. Py File
+2. Js File
+3. **Create Feature Branch:**
 
+   ```bash
+   git checkout -b feature-internet-search
+   ```
+
+4. **Implement Internet Search:**
+ main
+
+   - Open a browser for the user.
+   - Implement search functionality and history.
+
+5. **Commit Changes:**
+
+   ```bash
+   git add .
+   git commit -m "Implement Internet Search"
+   ```
+
+ feature-internet-search
+
+6. **Push Feature Branch:**
+
+ main
    ```bash
    git push origin feature-internet-search
    ```
