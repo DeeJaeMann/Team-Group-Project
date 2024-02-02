@@ -1,4 +1,4 @@
-![CPLOGO](platoon_assignments/projects/javajest/assignments/Team-Group-Project/codeplatoonlogo.png)
+![CPLOGO](images/codeplatoonlogo.png)
 
 # Terminal Phone
 
