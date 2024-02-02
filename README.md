@@ -1,3 +1,5 @@
+![CPLOGO](platoon_assignments/projects/javajest/assignments/Team-Group-Project/codeplatoonlogo.png)
+
 # Terminal Phone
 
 ## Getting Started
@@ -74,6 +76,23 @@
 
 ## Team 3 added (2) files:
 
+ feature-internet-search
+   ```bash
+   git checkout -b feature-internet-search
+   ```
+
+2. **Implement Internet Search:**
+
+   - Open a browser for the user.
+   - Implement search functionality and history.
+
+3. **Commit Changes:**
+
+   ```bash
+   git add .
+   git commit -m "Implement Internet Search"
+   ```
+
 1. Py File
 2. Js File
 3. **Create Feature Branch:**
@@ -83,6 +102,7 @@
    ```
 
 4. **Implement Internet Search:**
+ main
 
    - Open a browser for the user.
    - Implement search functionality and history.
@@ -94,8 +114,11 @@
    git commit -m "Implement Internet Search"
    ```
 
+ feature-internet-search
+
 6. **Push Feature Branch:**
 
+ main
    ```bash
    git push origin feature-internet-search
    ```
